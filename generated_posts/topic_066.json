@@ -1,0 +1,9 @@
+{
+  "topic_number": 66,
+  "category": "Prompt Engineering",
+  "title": "Chain-of-thought prompting: why it works so well",
+  "content_type": "Explanation",
+  "angle": "AI education",
+  "viral_potential": "Medium",
+  "post": "Chain-of-thought prompting sounds like buzzword. Here's why it actually works:\n\nWhen AI models 'think step by step,' they break complex problems into intermediate steps. This prevents them from jumping to conclusions and allows errors to be caught earlier.\n\nResearch shows this simple technique dramatically improves performance on reasoning tasks. Not because the model becomes smarter—but because it externalizes its reasoning process.\n\nYou can see where it went wrong. You can verify the logic. You can course-correct mid-problem.\n\nFor complex tasks, always ask for step-by-step reasoning. For simple tasks? Save the overhead—direct answers work fine.\n\nThe key is matching the prompting style to the complexity of the task.\n\nWhat prompting techniques have worked best for you?"
+}

@@ -1,0 +1,9 @@
+{
+  "topic_number": 76,
+  "category": "AI in Production",
+  "title": "The hidden cost of running AI in production (it's not what you think)",
+  "content_type": "Insight",
+  "angle": "Operations",
+  "viral_potential": "Medium",
+  "post": "Everyone talks about AI inference costs. The hidden cost nobody mentions: maintenance.\n\nModels drift. User behavior shifts. Edge cases emerge. Your 'working' AI feature needs constant babysitting.\n\nIn our production systems, we spend 3x more on AI maintenance than initial deployment:\n- Monitoring for drift and degradation\n- Updating training data\n- Retraining and redeploying\n- Handling failure modes nobody anticipated\n\nThe real cost of AI isn't the API bill. It's the human expertise required to keep it working.\n\nBefore you deploy AI, ask: who's going to maintain this when it breaks at 2am?\n\nHow are you handling AI maintenance costs?"
+}

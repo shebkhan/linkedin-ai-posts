@@ -1,0 +1,9 @@
+{
+  "topic_number": 63,
+  "category": "Prompt Engineering",
+  "title": "I'm a prompt engineer. Here's what I actually do all day",
+  "content_type": "Inside look",
+  "angle": "Career peek",
+  "viral_potential": "High",
+  "post": "People ask me what I actually do as a prompt engineer. Let me pull back the curtain.\n\nMost of my time is spent:\n\n- Translating vague business needs into precise AI instructions\n- Testing prompts hundreds of times to find failure modes\n- Building prompt templates that non-technical users can apply\n- Analyzing when AI fails and diagnosing why\n- Staying current on model capabilities and limitations\n\nIt's equal parts linguist, psychologist, and quality assurance engineer.\n\nThe biggest misconception? That I write clever creative prompts. The reality is more mundane—I write clear, structured instructions with explicit constraints.\n\nThe best prompts aren't clever. They're comprehensive.\n\nCurious about what a career in prompt engineering actually looks like?"
+}

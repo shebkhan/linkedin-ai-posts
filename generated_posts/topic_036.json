@@ -1,0 +1,9 @@
+{
+  "topic_id": 36,
+  "category": "AI for Developers",
+  "title": "We replaced our QA team with AI. 6 months in — honest review",
+  "content_type": "Case study",
+  "angle": "Team impact",
+  "viral_potential": "Very High",
+  "post": "Six months ago, we replaced our QA team with AI tools.\n\nI'll be honest: it was a decision driven by cost, not innovation. We couldn't afford the headcount, and the tools had gotten good enough to try.\n\nThe results? Complicated.\n\nAI catches regressions faster and more consistently than humans ever did. Our test coverage went up 40%. Deployment frequency doubled.\n\nBut we lost something too. The intuition that a seasoned QA engineer brings. The conversations about user experience that happened during testing. The sense of ownership.\n\nNow we're hiring one senior QA person back — someone who works alongside AI, not instead of it.\n\nMy takeaway: AI is great for regression testing. It's not great for understanding what users actually need.\n\nWhat's your QA setup look like? Thoughts?"
+}

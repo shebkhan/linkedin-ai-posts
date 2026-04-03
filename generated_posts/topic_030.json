@@ -1,0 +1,9 @@
+{
+  "topic_id": 30,
+  "category": "AI for Developers",
+  "title": "I shipped a full React app in 2 hours with Cursor AI",
+  "content_type": "Build demo",
+  "angle": "AI coding tool",
+  "viral_potential": "Very High",
+  "post": "Two hours.\n\nThat's how long it took me to ship a fully functional React dashboard with authentication, data visualization, and a REST API integration.\n\nI didn't write a single line manually. I prompted, reviewed, iterated, and shipped. Cursor AI handled the boilerplate, the component logic, even the edge cases I would have missed.\n\nThe result isn't perfect — production code needs polish. But the speed of initial implementation is genuinely game-changing.\n\nI'm now convinced: the bottleneck isn't building anymore. It's knowing what to build.\n\nWhat would you ship if implementation took 2 hours? Thoughts?"
+}

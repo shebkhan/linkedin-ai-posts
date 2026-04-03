@@ -1,0 +1,9 @@
+{
+  "topic_id": 34,
+  "category": "AI for Developers",
+  "title": "Run a 70B model on your MacBook. Here's how",
+  "content_type": "Tutorial",
+  "angle": "Local AI dev",
+  "viral_potential": "High",
+  "post": "You don't need the cloud to run powerful AI locally.\n\nWith the right setup — Ollama, MLX on Apple Silicon, and some quantization tricks — you can run a 70B parameter model on a MacBook Pro. It won't be as fast as GPT-4, but it'll handle most coding tasks surprisingly well.\n\nI run Llama 3 locally for code reviews, debugging, and architecture questions. No data leaves my machine. No subscription fees. No latency waiting for API responses.\n\nThe setup takes about 20 minutes if you follow the right guide. Once it's running, it's seamless.\n\nFor privacy-conscious developers or anyone tired of context windows, this is worth the effort.\n\nHave you tried running models locally? Thoughts?"
+}

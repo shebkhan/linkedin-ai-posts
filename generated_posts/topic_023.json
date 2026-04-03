@@ -1,0 +1,7 @@
+{
+  "topic_number": 23,
+  "title": "I built an AI diagnostic tool for rare diseases. Here's what happened",
+  "viral_potential": "High",
+  "paragraphs": 2,
+  "post": "I spent eight months building an AI diagnostic tool for a rare genetic disorder that affects about 1 in 50,000 people. The existing diagnostic timeline averages 4 years. I thought AI could fix that.\n\nIt did — for some cases. The tool achieved 89% accuracy on typical presentations. But rare diseases are rare because they're unusual, and AI struggles exactly where humans do: with the atypical. The edge cases that experienced clinicians recognize are still very hard for AI to handle.\n\nWhat I learned: AI in medicine isn't about replacing expertise. It's about handling the common stuff so experts can focus on the rare and complex. The tool is now used as a first screen by four clinics, and diagnostic time has dropped from 4 years to 18 months on average. That's real impact.\n\nWhat health problems do you think AI could transform? Thoughts?"
+}

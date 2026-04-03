@@ -1,0 +1,9 @@
+{
+  "topic_number": 62,
+  "category": "Prompt Engineering",
+  "title": "The 3-word prompt that changed how I use AI",
+  "content_type": "Quick tip",
+  "angle": "Viral hook",
+  "viral_potential": "Very High",
+  "post": "Three words: 'Think step by step.'\n\nThat's it. That's the prompt.\n\nAdd 'think step by step' to any complex request and watch your AI outputs transform. Suddenly it shows its work. Catches its own errors. Produces reasoning you can actually verify.\n\nI've tested this across dozens of use cases: coding, writing, analysis, planning, creative work. It works.\n\nThe reason is simple: Chain-of-thought prompting forces the model to slow down and reason through problems instead of jumping to plausible-sounding conclusions.\n\nNext time you're stuck on a complex problem, try it. Then watch what happens.\n\nWhat 3-word prompt tricks have changed your AI usage?"
+}

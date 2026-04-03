@@ -1,0 +1,9 @@
+{
+  "topic_id": 35,
+  "category": "AI for Developers",
+  "title": "The bug AI found that I missed for 3 years",
+  "content_type": "Humble story",
+  "angle": "AI debugging",
+  "viral_potential": "High",
+  "post": "Three years.\n\nThat's how long a race condition bug lived in our production system before Claude found it in about 30 seconds.\n\nI was embarrassed. The bug only appeared under specific load conditions, and our test suite never caught it. But once I knew what to look for, the fix was trivial.\n\nThis taught me something important: AI debugging isn't about finding syntax errors. It's about seeing patterns humans miss because we've stared at the code too long.\n\nNow I run every tricky bug through Claude before escalating to colleagues. More often than I'd like to admit, it finds something.\n\nHumbling? Yes. But I'd rather be humbled than ship broken code.\n\nHas AI ever caught something you'd missed for years? Thoughts?"
+}

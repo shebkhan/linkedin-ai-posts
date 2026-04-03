@@ -1,0 +1,9 @@
+{
+  "topic_id": 42,
+  "category": "AI for Startups",
+  "title": "The AI stack for early-stage startups in 2025",
+  "content_type": "Resource",
+  "angle": "Tool curation",
+  "viral_potential": "High",
+  "post": "If I were starting a startup today, here's the AI stack I'd use:\n\nFor code: Cursor or Claude Max. Both are good enough that the choice doesn't matter much.\n\nFor customer support: Intercom + AI or a custom bot trained on your docs.\n\nFor growth: Build in public, but use AI to amplify everything — LinkedIn posts, cold outreach, email sequences.\n\nFor operations: Notion AI or similar for docs, Zapier + AI for workflow automation.\n\nFor analytics: Mixpanel with AI-generated insights. Let the tool tell you what's important instead of manually exploring dashboards.\n\nTotal cost: roughly $500/month for everything you need to run a serious business.\n\nThis stack would have cost $50,000/month in headcount two years ago. Now it's accessible to anyone with a laptop and determination.\n\nWhat's in your startup stack? Thoughts?"
+}

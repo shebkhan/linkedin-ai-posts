@@ -1,0 +1,9 @@
+{
+  "topic_number": 73,
+  "category": "AI in Production",
+  "title": "We deployed AI to 1M users. What we learned the hard way",
+  "content_type": "Case study",
+  "angle": "Real deployment",
+  "viral_potential": "High",
+  "post": "We deployed an AI feature to 1 million users last quarter. Three things we didn't anticipate:\n\n1. Performance at scale doesn't match performance in testing\nOur model handled 100 users perfectly. At 1M, latency spiked, hallucinations increased 3x, and edge cases exploded.\n\n2. Users find creative ways to break AI\nThey do this on purpose. Every 'jailbreak' technique taught us more about our failure modes than a year of internal testing.\n\n3. The monitoring problem is unsolved\nWe had dashboards for server metrics. We had nothing for 'is the AI actually doing what we want?'\n\nThe biggest lesson: production AI requires a completely different skill set than training AI. The engineers who build it and the engineers who run it cannot be the same people.\n\nWhat deployment lessons have you learned?"
+}

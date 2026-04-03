@@ -1,0 +1,9 @@
+{
+  "topic_number": 65,
+  "category": "Prompt Engineering",
+  "title": "The prompt that got me a job offer at OpenAI",
+  "content_type": "Personal story",
+  "angle": "Success story",
+  "viral_potential": "Very High",
+  "post": "I wrote a prompt. It got me a job offer at OpenAI.\n\nNo exaggeration.\n\nDuring my interview, I was given a real problem: how would you design an AI assistant that helps doctors communicate with patients? I didn't just describe an approach. I built a working prototype using prompt chaining, evaluation frameworks, and safety constraints.\n\nThe hiring manager said my prompt design showed deeper understanding of AI limitations than most candidates with years of experience.\n\nWhat I learned: prompt engineering isn't about being clever. It's about being precise about what you want and explicit about what can go wrong.\n\nThe job market for prompt engineers is exploding. Companies are realizing that the difference between a useful AI and a useless one is often one well-written prompt.\n\nInterested in breaking into this field?"
+}

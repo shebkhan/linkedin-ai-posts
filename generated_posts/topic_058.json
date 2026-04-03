@@ -1,0 +1,9 @@
+{
+  "topic_number": 58,
+  "category": "AI Agents",
+  "title": "Autonomous AI agents: 1 year later — what worked and what failed",
+  "content_type": "Retrospective",
+  "angle": "Honest review",
+  "viral_potential": "Very High",
+  "post": "I deployed autonomous AI agents across my business 12 months ago. Here's the unfiltered truth.\n\nWhat worked:\n\n- Repetitive data entry and processing (expect 90% time savings)\n- Round-the-clock monitoring and alerting (no sleep, no excuses)\n- First-draft content generation (faster iteration cycles)\n- Customer support triage (faster response times)\n\nWhat failed:\n\n- Anything requiring genuine judgment calls (hallucinations were real)\n- Highly creative work without heavy human guidance (outputs were safe but boring)\n- Tasks with ambiguous success criteria (the agent defaulted to 'safe' choices)\n- Anything requiring contextual understanding of company culture\n\nThe biggest lesson? AI agents are incredible at executing defined workflows. They're terrible at deciding what those workflows should be.\n\nWhat's your experience been with autonomous agents?"
+}

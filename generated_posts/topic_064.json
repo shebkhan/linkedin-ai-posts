@@ -1,0 +1,9 @@
+{
+  "topic_number": 64,
+  "category": "Prompt Engineering",
+  "title": "Stop using basic prompts. Try this advanced framework instead",
+  "content_type": "Education",
+  "angle": "Skill share",
+  "viral_potential": "High",
+  "post": "Stop prompting like it's 2023.\n\nHere's the framework I use for complex AI tasks now:\n\n1. Context: Give the AI the background it needs\n2. Role: Define who the AI should act as\n3. Task: Clear, specific action\n4. Constraints: What boundaries to respect\n5. Examples: Show what good looks like\n6. Format: How to structure the output\n\nBasic prompts get basic results. This framework forces you to think through the problem before you prompt.\n\nI saved hours of back-and-forth by spending 5 extra minutes upfront writing a comprehensive prompt.\n\nWhat prompting frameworks have improved your AI outputs?"
+}

@@ -1,0 +1,9 @@
+{
+  "topic_number": 59,
+  "category": "AI Agents",
+  "title": "How to build your first AI agent without code",
+  "content_type": "Tutorial",
+  "angle": "No-code agent",
+  "viral_potential": "High",
+  "post": "You don't need to write a single line of code to build an AI agent.\n\nHere's my no-code setup that runs 20+ automations for my business:\n\n1. Define the workflow step-by-step (what triggers it, what does it do, what's the output?)\n2. Choose your agent platform (I use Make.com + Claude)\n3. Connect your tools (email, Slack, Google Sheets, your CRM)\n4. Write clear instructions for each step\n5. Set error handling—what happens when it fails\n6. Test with 10-20 samples before going live\n\nThe biggest mistake I see? People skip step 1. They jump straight into building without mapping out the workflow.\n\nA well-defined process beats sophisticated tooling every time.\n\nWant me to share my exact agent templates? Thoughts?"
+}

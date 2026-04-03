@@ -1,0 +1,9 @@
+{
+  "topic_id": 51,
+  "category": "Software Industry",
+  "title": "Why most developer tools fail (from someone who built 5 of them)",
+  "content_type": "Insight",
+  "angle": "Founder lessons",
+  "viral_potential": "High",
+  "post": "I've built five developer tools. Four failed. Here's what I learned.\n\nDeveloper tools fail because they optimize for the wrong thing. We build for what developers ask for, not what they actually need. We add features instead of removing friction.\n\nThe successful tool solved one problem so well that developers couldn't go back. The failures tried to be everything — \"the platform for X\" — and nothing stuck.\n\nThe second failure mode is pricing. Developers will spend hours to save $10. Your tool has to be so good they can't afford not to pay, or so cheap it's a no-brainer. The middle ground is death.\n\nThe third lesson: distribution is harder than building. If you can't get developers to try your tool, nothing else matters.\n\nBuilding developer tools is brutal. But the ones that win change how millions of people work.\n\nWhat developer tools do you wish existed? Thoughts?"
+}

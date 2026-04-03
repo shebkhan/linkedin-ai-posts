@@ -1,0 +1,9 @@
+{
+  "topic_id": 31,
+  "category": "AI for Developers",
+  "title": "The prompt that turns Claude into your senior engineer",
+  "content_type": "Tutorial",
+  "angle": "Prompt engineering",
+  "viral_potential": "High",
+  "post": "After months of trial and error, I found the prompt structure that makes Claude respond like a seasoned senior engineer — not just a smart chatbot.\n\nIt starts with context overload. Give it your entire codebase structure, your constraints, your team conventions. Then ask one focused question.\n\nThe key is the second message: \"Now think like a senior engineer who has seen this pattern before. What are you concerned about?\"\n\nThe difference in response quality is remarkable.\n\nSave this and try it on your next architectural question.\n\nWhat prompt techniques have worked best for you? Thoughts?"
+}

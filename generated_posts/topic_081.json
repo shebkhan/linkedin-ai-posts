@@ -1,0 +1,9 @@
+{
+  "topic_number": 81,
+  "category": "AI Tools",
+  "title": "Cursor vs Windsurf vs Copilot: which AI IDE actually ships faster?",
+  "content_type": "Comparison",
+  "angle": "Dev tools",
+  "viral_potential": "Very High",
+  "post": "I shipped the same project in all three AI IDEs. Here's what I found:\n\nCursor:\nFastest for feature development. Tab completion is genuinely magical. The agent mode understands project context better than anything I've tried. Minor learning curve, major productivity gain.\n\nWindsurf:\nBest for exploring new codebases. The waterfall feature shows its work in a way that builds trust. Good for onboarding to unfamiliar projects.\n\nCopilot:\nMost integrated. If you're already in VS Code, it Just Works. Not the most sophisticated, but the frictionless integration wins for daily use.\n\nMy verdict: Cursor for serious development velocity, Copilot for convenience, Windsurf for learning new codebases.\n\nThe productivity difference between these and plain VS Code is not subtle. It's night and day.\n\nWhich AI IDE are you shipping with?"
+}

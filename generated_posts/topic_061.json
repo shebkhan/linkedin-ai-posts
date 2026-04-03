@@ -1,0 +1,9 @@
+{
+  "topic_number": 61,
+  "category": "AI Agents",
+  "title": "The prompt that makes AI agents 10x more reliable",
+  "content_type": "Tutorial",
+  "angle": "Agent prompting",
+  "viral_potential": "High",
+  "post": "Most AI agents fail not because they're dumb—but because their prompts are vague.\n\nHere's the framework I use for every agent I deploy:\n\n'You are [ROLE]. Your goal is [SPECIFIC OUTCOME]. When [TRIGGER], do [EXACT STEPS]. If [ERROR CONDITION], do [FALLBACK]. Success looks like [MEASURABLE CRITERIA].'\n\nThe key additions that changed everything:\n\n- Explicit error conditions (anticipate failure modes)\n- Measurable success criteria (not 'good output' but 'under 5% error rate')\n- Role clarity (what they can and cannot decide)\n\nThis isn't about replacing your job—it's about having a tireless collaborator. The agents that work best are the ones with crystal-clear instructions.\n\nWhat prompting tricks have improved your agent reliability?"
+}

@@ -1,0 +1,9 @@
+{
+  "topic_number": 74,
+  "category": "AI in Production",
+  "title": "LLM hallucinations: the enterprise problem nobody talks about",
+  "content_type": "Problem talk",
+  "angle": "Enterprise AI",
+  "viral_potential": "High",
+  "post": "Hallucinations aren't just a technical problem. They're an enterprise liability.\n\nIn production, we've seen LLMs confidently assert incorrect facts, cite non-existent sources, and make up numbers that sound plausible. For a consumer app, this is embarrassing. For enterprise决策, it's a lawsuit waiting to happen.\n\nHere's what we've done:\n\n- Ground outputs in retrieval (RAG architectures)\n- Add uncertainty quantification to responses\n- Build human-in-the-loop verification for high-stakes outputs\n- Treat hallucinations as a product problem, not just a model problem\n\nThe uncomfortable truth: you cannot trust LLM outputs without verification. Every enterprise AI deployment needs guardrails.\n\nWhat's your approach to handling hallucinations in production?"
+}

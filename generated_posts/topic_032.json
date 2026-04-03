@@ -1,0 +1,9 @@
+{
+  "topic_id": 32,
+  "category": "AI for Developers",
+  "title": "AI code reviews are here. Are senior devs obsolete?",
+  "content_type": "Provocative",
+  "angle": "Future of dev",
+  "viral_potential": "Very High",
+  "post": "Let me say something controversial.\n\nAI code reviews are now better than most human code reviews I've received. They're faster, more thorough, and never tired.\n\nThe AI catches the security flaw, the performance issue, the missing edge case — all before the PR gets merged.\n\nSo what does this mean for senior developers? I think it means our value isn't in catching bugs. It's in making the right architectural decisions in the first place.\n\nThe developers who'll struggle are those who relied on review as their primary quality mechanism. The ones who thrive will use AI to amplify their judgment, not replace their judgment.\n\nAre AI code reviews changing how you work? Thoughts?"
+}

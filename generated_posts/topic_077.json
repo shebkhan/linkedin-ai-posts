@@ -1,0 +1,9 @@
+{
+  "topic_number": 77,
+  "category": "AI in Production",
+  "title": "How to evaluate AI systems that aren't just 'vibes'",
+  "content_type": "Technical",
+  "angle": "MLOps",
+  "viral_potential": "Medium",
+  "post": "Everyone says their AI 'works great.' Here's how to actually measure it:\n\n1. Define success metrics before deployment (not after)\n2. Track accuracy, latency, and error rates over time\n3. A/B test against baselines—human performance, previous systems\n4. Measure user trust: are they overriding the AI?\n5. Conduct regular red teaming for failure modes\n\nThe companies that take AI seriously treat it like software engineering, not magic.\n\nEvals aren't glamorous. But they're the difference between AI that degrades silently and AI you can actually improve.\n\nWhat's your AI evaluation framework?"
+}

@@ -1,0 +1,7 @@
+{
+  "topic_number": 24,
+  "title": "HIPAA and AI: what every medical professional needs to know",
+  "viral_potential": "Medium",
+  "paragraphs": 2,
+  "post": "If you're a medical professional using AI and you're not thinking about HIPAA, you're playing with fire. Patient data privacy isn't optional — it's the foundation of trust that the entire healthcare system runs on.\n\nHere's the basics you need: any AI tool handling patient data needs to be HIPAA-compliant, which means business associate agreements, data encryption, and audit trails. Many popular AI tools are not designed for healthcare use and don't meet these requirements. The convenience of using a free AI tool isn't worth a HIPAA violation and the massive fines that come with it.\n\nAsk your compliance officer. Read the terms of service. Make sure you're protected before you upload a single patient record.\n\nWhat's your approach to AI compliance in healthcare? Thoughts?"
+}
